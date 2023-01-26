@@ -1,0 +1,241 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "label": "Bread & Pastry"
+    },
+
+    {
+      "id": 2,
+      "label": "Cake"
+    },
+
+    {
+      "id": 3,
+      "label": "Drinks"
+    },
+
+    {
+      "id": 4,
+      "label": "Vegan Options"
+    },
+
+    {
+      "id": 5,
+      "label": "Best Seller"
+    },
+
+    {
+      "id": 6,
+      "label": "New Products"
+    }
+  ],
+
+  
+  "products": [
+
+    {
+      "id": "1", 
+      "name": "Mocha Frappe", 
+      "category_id": 3, 
+      "image": "mocha-frappe.jpeg", 
+      "price": 3
+    },
+    {
+      "id": "2", 
+      "name": "Ice Chocolate",
+      "category_id": 3, 
+      "image":  "ice-chocolate.jpg",
+      "price": 2.5
+    },
+    {
+      "id": "3", "name": "Strawberry Frappe",
+      "category_id": 3,
+      "image": "strawberry-frappe.jpeg",
+      "price": 3.3
+    },
+    {
+      "id": "4", "name": "Ice Latte",
+      "category_id": 3,
+      "image": "ice-latte.jpeg",
+      "price": 1.9
+    },
+    {
+      "id": "5", "name": "Chocolate Frappe",
+      "category_id": 3,
+      "image": "chocolate-frappe.jpeg",
+      "price": 3.1
+    },
+    {
+      "id": "6", "name": "Green Tea Frappe",
+      "category_id": 3,
+      "image": "green-tea-frappe.jpg",
+      "price": 3
+    },
+    {
+      "id": "7", "name": "Ice Green Tea",
+      "category_id": 3,
+      "image": "ice-green-tea.png",
+      "price": 1.8
+    },
+    {
+      "id": "8", "name": "Raspberry Frappe",
+      "category_id": 3,
+      "image": "raspberry-frappe.jpeg",
+      "price": 3.1
+    },
+    {
+      "id": "9", "name": "Cream Puff",
+      "category_id": 5,
+      "image": "best-seller-cream-puff.jpg",
+      "price": 1.2
+    },
+    {
+      "id": "10",
+      "name": "Pain Au Choco",
+      "category_id": 5,
+      "image": "best-seller-pain-au-choco.jpg",
+      "price": 1.4
+    },
+    {
+      "id": "11",
+      "name": "Eclair",
+      "category_id": 5,
+      "image": "best-seller-eclair.jpg",
+      "price": 1.6
+    },
+    {
+      "id": "12",
+      "name": "Chocolate Cake",
+      "category_id": 2,
+      "image": "chocolate-cake.jpeg",
+      "price": 16
+    },
+    {
+      "id": "13",
+      "name": "Vanilla Cake",
+      "category_id": 2,
+      "image": "vanilla-cake.jpeg",
+      "price": 13
+    },
+    {
+      "id": "14",
+      "name": "Blueberry Cake",
+      "category_id": 2,
+      "image": "blueberry-cake.png",
+      "price": 14
+    },
+    {
+      "id": "15",
+      "name": "Strawberry Cake",
+      "category_id": 2,
+      "image": "strawberry-cake.jpeg",
+      "price": 16
+    },
+    {
+      "id": "35",
+      "name": "Chocolate Croissant",
+      "category_id": 1,
+      "image": "chocolate-croissant.jpeg",
+      "price": 1
+    },
+    {
+      "id": "36",
+      "name": "Croquette",
+      "category_id": 1,
+      "image": "croquette.jpeg",
+      "price": 1.2
+    },
+    {
+      "id": "37",
+      "name": "Croquette",
+      "category_id": 6,
+      "image": "croquette.jpeg",
+      "price": 1.2
+    },
+    {
+      "id": "38",
+      "name": "Chocolate Croissant",
+      "category_id": 4,
+      "image": "chocolate-croissant.jpeg",
+      "price": 1
+    },
+    {
+      "id": "39",
+      "name": "Brioche",
+      "category_id": 1,
+      "image": "brioche.jpeg",
+      "price": 0.7
+    },
+    {
+      "id": "40",
+      "name": "Brioche",
+      "category_id": 4,
+      "image": "brioche.jpeg",
+      "price": 0.7
+    },
+    {
+      "id": "41",
+      "name": "Garlic Ham Cheese",
+      "category_id": 1,
+      "image": "garlic-ham-cheese-bread.jpeg",
+      "price": 1.3
+    },
+    {
+      "id": "42",
+      "name": "Milk Cream Cornet",
+      "category_id": 1,
+      "image": "milk-cream-cornet-pie.jpeg",
+      "price": 1.2
+    },
+    {
+      "id": "43",
+      "name": "Milk Cream Cornet",
+      "category_id": 6,
+      "image": "milk-cream-cornet-pie.jpeg",
+      "price": 1.2
+    },
+    {
+      "id": "44",
+      "name": "Egg Tart",
+      "category_id": 1,
+      "image": "eggtart.jpeg",
+      "price": 0.75
+    },
+    {
+      "id": "45",
+      "name": "Egg Tart",
+      "category_id": 6,
+      "image": "eggtart.jpeg",
+      "price": 0.75
+    },
+    {
+      "id": "46",
+      "name": "Garlic Cheese Bread",
+      "category_id": 1,
+      "image": "garlic-cream-cheese-bread.jpeg",
+      "price": 0.9
+    },
+    {
+      "id": "47",
+      "name": "Garlic Cheese Bread",
+      "category_id": 6,
+      "image": "garlic-cream-cheese-bread.jpeg",
+      "price": 0.9
+    },
+    {
+      "id": "48",
+      "name": "Toast Bread",
+      "category_id": 1,
+      "image": "toast-bread.jpeg",
+      "price": 1
+    },
+    {
+      "id": "49",
+      "name": "Toast Bread",
+      "category_id": 4,
+      "image": "toast-bread.jpeg",
+      "price": 1
+    }
+  ]
+}
